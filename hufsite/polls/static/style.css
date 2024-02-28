@@ -1,0 +1,50 @@
+BODY {
+background-repeat:no-repeat;
+background-color:#BBBBAA;
+text-decoration:none;
+margin-top:2px;
+margin-left:5px;
+font-family: "Verdana";
+font-size: 12pt;
+font-weight: normal
+}
+
+LI {
+font-family: "Verdana";
+font-size: 12pt;
+font-weight: normal
+}
+
+H1 {font-family: "Verdana"; font-size: 28pt; font-weight: bold}
+H2 {font-family: "verdana"; font-size: 16pt; font-weight: bold}
+H3 {font-family: "verdana"; font-size: 12pt; font-weight: bold}
+H4 {font-family: "verdana"; font-size: 10pt; font-weight: bold}
+H5 {font-family: "verdana"; font-size: 10pt; font-weight: light}
+H6 {font-family: "Verdana"; font-size: 9pt; font-weight: light}
+
+TABLE {
+font-family: "Verdana";
+font-size: 12pt;
+font-weight: normal
+}
+
+P {
+font-family: "Verdana";
+font-size: 12pt;
+font-weight: normal
+}
+
+a:link {background: transparent;color: #0000FF;} 
+a:active {
+color: #FFCC99;
+font-family: "Verdana";
+font-size: 12pt;
+font-weight: normal
+}
+
+a:visited {
+color: #800080;
+font-family: "Verdana";
+font-size: 12pt;
+font-weight: normal
+}
